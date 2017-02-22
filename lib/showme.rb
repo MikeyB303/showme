@@ -1,5 +1,5 @@
 class ShowMe
-  def self.show
+  def self.what_you_got
     puts "        ___          "
     puts "    . -^   `--,      "
     puts "   /# =========`-_   "
