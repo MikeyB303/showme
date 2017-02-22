@@ -17,6 +17,7 @@ class ShowMe
     puts '      \##        |   '
     puts '       \###.    .)   '
     puts '        `======/     '
+    cmd = `say 'show me what you got'`
   end
 
 end
