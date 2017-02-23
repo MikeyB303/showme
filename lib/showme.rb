@@ -1,8 +1,10 @@
-# require_relative 'faces'
-# require_relative 'methods'
+require 'showme/faces'
+require 'showme/methods'
+
 
 class ShowMe < Methods
   def self.what_you_got
+    reset_screen
     start_face
     sleep 0.1
     reset_screen
