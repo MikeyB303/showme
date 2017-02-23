@@ -1,5 +1,5 @@
-require_relative 'faces'
-require_relative 'methods'
+# require_relative 'faces'
+# require_relative 'methods'
 
 class ShowMe < Methods
   def self.what_you_got
