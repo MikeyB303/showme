@@ -35,3 +35,5 @@ class ShowMe
   end
 end
 
+ShowMe.what_you_got
+
