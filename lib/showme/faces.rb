@@ -1,3 +1,4 @@
+#soon
 def start_face
     puts '      '
     puts '      '
@@ -57,7 +58,7 @@ def next_face2
     puts '.    .)   '
     puts '====/     '
 end
-
+#you better get ready to show me what you got
 def next_face3
     puts '__          '
     puts '  `--,      '
@@ -157,7 +158,7 @@ def on_screen
     puts '       \###.    .)   '
     puts '        `======/     '
 end
-
+# SHOW ME WHAT YOU GOT
 def open_mouth
     puts '        ___          '
     puts '    . -^   `--,      '
