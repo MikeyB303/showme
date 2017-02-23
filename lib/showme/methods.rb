@@ -1,4 +1,3 @@
-class Methods < Faces
   def reset_screen
     clear_screen
     move_to_home
@@ -13,5 +12,4 @@ class Methods < Faces
   def move_to_home
     print "\e[H"
   end
-end
 

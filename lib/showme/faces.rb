@@ -1,4 +1,3 @@
-
 #soon
 def start_face
     puts '      '
