@@ -1,7 +1,7 @@
 require_relative 'faces'
 require_relative 'methods'
 
-class ShowMe
+class ShowMe < Methods
   def self.what_you_got
     start_face
     sleep 0.1
@@ -34,6 +34,4 @@ class ShowMe
     on_screen
   end
 end
-
-ShowMe.what_you_got
 
