@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name               = "showme"
-  s.version            = "0.0.5"
+  s.version            = "1.0.0"
   s.default_executable = "showme"
   s.authors = ["Mike Bonetti", "Chase Stephens"]
   s.date = %q{2017-02-22}
