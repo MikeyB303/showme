@@ -2,7 +2,7 @@ require 'showme/faces'
 require 'showme/methods'
 
 
-class ShowMe < Methods
+class ShowMe
   def self.what_you_got
     reset_screen
     start_face
