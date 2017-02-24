@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name               = "showme"
-  s.version            = "1.0.6"
+  s.version            = "1.1.0"
   s.default_executable = "showme"
   s.executables = ["showme"]
   s.authors = ["Mike Bonetti", "Chase Stephens"]
