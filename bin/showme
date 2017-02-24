@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'showme'
+
+cromulon = ShowMe::Cromulon.new  
+cromulon.what_you_got
