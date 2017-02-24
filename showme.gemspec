@@ -1,7 +1,8 @@
 Gem::Specification.new do |s|
   s.name               = "showme"
-  s.version            = "1.0.2"
+  s.version            = "1.0.6"
   s.default_executable = "showme"
+  s.executables = ["showme"]
   s.authors = ["Mike Bonetti", "Chase Stephens"]
   s.date = %q{2017-02-22}
   s.description = %q{A simple gem to SHOW ME WHAT YOU GOT}
